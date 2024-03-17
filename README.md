@@ -1,7 +1,7 @@
 # Awesome Linux Customization 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/MrHyperIon101/Linux-Customization/])
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/MrHyperIon101/Linux-Customization/)
 
 List of customization tools for **UNIX/Linux** user to make the desktop more _aesthetic_ and _clean_ for productivity.
 
